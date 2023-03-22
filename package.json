@@ -1,7 +1,13 @@
 {
   "name": "hoodieverse",
   "version": "0.1.0",
+  "author": "Imraan-Hendricks",
+  "description": "Hoodieverse is a premier online destination for high-end hoodies",
   "private": true,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Imraan-Hendricks/hoodieverse"
+  },
   "scripts": {
     "dev": "next dev",
     "build": "next build",
